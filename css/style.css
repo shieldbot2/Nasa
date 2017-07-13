@@ -1,3 +1,8 @@
-{
-  
+body{
+  background-image: url(../images/espace/bg-pattern.jpg);
+}
+h1, h2 {
+  text-align: center;
+}
+ .wrapper {background: url(../images/espace/Boeing_X-37B_inside_payload_fairing_before_launch.jpg); no-repeat;background-attachment: fixed; padding: 200px; height: 200px;
 }
